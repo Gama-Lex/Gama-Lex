@@ -1,16 +1,13 @@
 <h1 align="Center">Bienvenidos 👋 este es mi perfil profesional</h1>
 <h1 align="Center">Gamaliel Alexis Cerón Vieyra</h1>
-<h2 align="Center">Estudidante de Tecnico Superior Universitario en la carrera de entornos virtuales y negocios digitales</h2>
-  
-  
-<p align="center">
-    <img src="/imagenes/foto_profesional.jpeg" width="300" height="300" > 
-</p>
+<h2 align="Center">Estudidante de Tecnico Superior Universitario en la carrera de Entornos Virtuales y Negocios Digitales</h2>
+
+<p align="center"><img src="/imagenes/banner_horizontal.png"></img></p>
 
 <h2>Sobre mi</h2>
-<h3>Hola, soy Gamaliel Alexis Cerón Vieyra, vivo en Huamantla Tlaxcala, soy alguien tranquilo y paciente, me gusta estar metido en mis propios asuntos, no me especializo en programación pero tengo conocimiento básico sobre un par de lenguajes, me interesaría dedicarme al lado artístico de las cosas como ilustraciones, animaciones y otras cosas.</h3>
+<h3>Hola, soy Gamaliel Alexis Cerón Vieyra, vivo en Huamantla Tlaxcala, soy alguien tranquilo y paciente, no me especializo en programación pero tengo conocimiento básico sobre un par de lenguajes, me interesa dedicarme al lado artístico de las cosas como ilustraciones y animaciones.</h3>
 <h3>Mis hobbies son dibujar, escuchar música, jugar varios videojuegos, ver videos de temas variados en Youtube, leer a veces y hacer ejercicio ocasionalmente</h3>
-<p></p>
+
 <h2>Formación académica</h2>
 <li>Estudio la carrera de Tecnologías de la Información del Área de Entornos Virtuales y Entornos digitales (TIAEVND) en Tecnico Superior Universitario.</li>
 
@@ -19,29 +16,31 @@
 </h3>
 
 <h2>Idiomas</h2>
-    <h3>Tengo un dominio decente en el ingles.</h3>
+    <h3>Mi lengua materna es el Español.</h3>
+    <h3>Nivel de inglés: B1.</h3>
 
 <h2>Habilidades</h2>
 <h3>
-    <li>Soy Paciente, resposable, me adapto con facilidad a varioas ambientes de trabajo, se trabajar en equipo y soy empatico.</li>
+    <li>Soy Paciente, resposable, me adapto con facilidad a varios ambientes de trabajo, se trabajar en equipo y soy empatico.</li>
 </h3>
 
 <h2>Tecnologías y Herramientas</h2>
 
 <h3>Lenguajes de programación: <p></p>
-    <li>Conozco C++, conozco mas de Html, manejo tambien Python.</li>
+    <li>Conozco C++, conozco mas de Html, manejo también Python.</li>
 </h3>
 
 <h3>Frameworks: <p></p>
-    <li>Por ahora solo manejo Bootstrap.</li>
+    <li>Bootstrap.</li>
+    <li>Django</li>
 </h3>
 
 <h3>Base de datos: <p></p>
-    <li>Conozco MySQL, manejo mejor Postgres</li>
+    <li>Conozco MySQL, manejo mejor Postgres.</li>
 </h3>
 
 <h3>Softwares<p></p>
-    Se utilizar el repertorio de aplicaciones de Microsoft y Google, Visual Studio Code con C++, Python y HTML, PSeInt, Photoshop, Adobe premiere, Adobe Audition, Krita, Blender, Unity, Xampp y MariaDB, Postgre, Canvas y otras
+    Se utilizar el repertorio de aplicaciones de Microsoft y Google, Visual Studio Code con C++, Python y HTML, PSeInt, Photoshop, Adobe premiere, Adobe Audition, Krita, Blender, Unity, Xampp y MariaDB, Postgre y Canvas.
 </h3> 
 
 <h2>Proyectos</h2>
@@ -73,8 +72,6 @@
   </a>
 </h3>
 
-<p align="center"><img src="/imagenes/banner_horizontal.png"></img></p>
-<p align="center"><img src="/imagenes/banner_vertical.png"></img></p> 
 
 <!--
 **Gama-Lex/Gama-Lex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
