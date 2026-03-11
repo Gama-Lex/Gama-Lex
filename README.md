@@ -6,7 +6,7 @@
 
 <h2>Sobre mi</h2>
 <h3>Hola, soy Gamaliel Alexis Cerón Vieyra, vivo en Huamantla Tlaxcala, soy alguien tranquilo y paciente, no me especializo en programación pero tengo conocimiento básico sobre un par de lenguajes, me interesa dedicarme al lado artístico de las cosas como ilustraciones y animaciones.</h3>
-<h3>Mis hobbies son dibujar, escuchar música, jugar varios videojuegos, ver videos de temas variados en Youtube, leer a veces y hacer ejercicio ocasionalmente</h3>
+<h3>Mis hobbies son dibujar, escuchar música, jugar varios videojuegos, ver videos de temas variados en YouTube, leer a veces y hacer ejercicio ocasionalmente</h3>
 
 <h2>Formación académica</h2>
 <li>Estudio la carrera de Tecnologías de la Información del Área de Entornos Virtuales y Entornos digitales (TIAEVND) en Tecnico Superior Universitario.</li>
@@ -21,7 +21,7 @@
 
 <h2>Habilidades</h2>
 <h3>
-    <li>Soy Paciente, resposable, me adapto con facilidad a varios ambientes de trabajo, se trabajar en equipo y soy empatico.</li>
+    <li>Soy Paciente, responsable, me adapto con facilidad a varios ambientes de trabajo, se trabajar en equipo y soy empático.</li>
 </h3>
 
 <h2>Tecnologías y Herramientas</h2>
@@ -71,6 +71,9 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </h3>
+
+<h4>CV en PDF</h4>
+<a href="/documentos/CV.pdf">
 
 
 <!--
