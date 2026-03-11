@@ -54,16 +54,27 @@
 <h2>📨 Contactos</h2>
 
 <h3>
-    <a href="https://x.com/BlasterG_4947"></a>
-    <a href="https://github.com/Gama-Lex"></a>
-    <a href="https://www.instagram.com/pan_y_cafe_qwq/"></a>
-    <a href="https://www.facebook.com/gama.lex.cv/"></a>
-    <a href="mailto:gamaliel.alexisab@gmail.com"></a>
     <h4>Numero telefonico: 2414198709<h4>
+    <p align="center">
+  <a href="https://x.com/BlasterG_4947" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://github.com/Gama-Lex" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/pan_y_cafe_qwq/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/gama.lex.cv/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:gamaliel.alexisab@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </h3>
 
 <p align="center"><img src="/imagenes/banner_horizontal.png"></img></p>
-<p align="center"><img src="/imagenes/banner_vertical.png"></img></p> j
+<p align="center"><img src="/imagenes/banner_vertical.png"></img></p> 
 
 <!--
 **Gama-Lex/Gama-Lex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
