@@ -4,11 +4,11 @@
   
   
 <p align="center">
-    <img src="/imagenes/foto_profesional.jpeg" > 
+    <img src="/imagenes/foto_profesional.jpeg" width="300" height="300" > 
 </p>
 
 <h2>Sobre mi</h2>
-<h3>Hola, soy Gamaliel Alexis Cerón Vieyra, vivo en Huamantla Tlaxcala, , soy alguien tranquilo y paciente, me gusta estar metido en mis propios asuntos, no me especializo en programación pero tengo conocimiento básico sobre un par de lenguajes, me interesaría dedicarme al lado artístico de las cosas como ilustraciones, animaciones y otras cosas.</h3>
+<h3>Hola, soy Gamaliel Alexis Cerón Vieyra, vivo en Huamantla Tlaxcala, soy alguien tranquilo y paciente, me gusta estar metido en mis propios asuntos, no me especializo en programación pero tengo conocimiento básico sobre un par de lenguajes, me interesaría dedicarme al lado artístico de las cosas como ilustraciones, animaciones y otras cosas.</h3>
 <h3>Mis hobbies son dibujar, escuchar música, jugar varios videojuegos, ver videos de temas variados en Youtube, leer a veces y hacer ejercicio ocasionalmente</h3>
 <p></p>
 <h2>Formación académica</h2>
