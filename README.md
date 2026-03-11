@@ -54,10 +54,10 @@
 <h2>📨 Contactos</h2>
 
 <h3>
-    <a href="https://x.com/BlasterG_4947" target="_blank"></a>
-    <a href="https://github.com/Gama-Lex" target="_blank"></a>
-    <a href="https://www.instagram.com/pan_y_cafe_qwq/" target="_blank"></a>
-    <a href="https://www.facebook.com/gama.lex.cv/" target="_blank"></a>
+    <a href="https://x.com/BlasterG_4947"></a>
+    <a href="https://github.com/Gama-Lex"></a>
+    <a href="https://www.instagram.com/pan_y_cafe_qwq/"></a>
+    <a href="https://www.facebook.com/gama.lex.cv/"></a>
     <a href="mailto:gamaliel.alexisab@gmail.com"></a>
     <h4>Numero telefonico: 2414198709<h4>
 </h3>
