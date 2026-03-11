@@ -72,8 +72,7 @@
   </a>
 </h3>
 
-<h4>CV en PDF</h4>
-<a href="/documentos/CV.pdf">
+<a href="/documentos/CV.pdf" target="_blank" style=" display:inline-block; padding:12px 22px; background:#d32f2f; color:white; text-decoration:none; border-radius:6px; font-weight:bold; "> Descargar CV en PDF
 
 
 <!--
